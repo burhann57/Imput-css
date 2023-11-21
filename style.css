@@ -1,0 +1,34 @@
+.frist {
+  float: left;
+  width: 30%;
+  height:100px;
+  background-color: red;
+}
+.third {
+  float: left;
+  width: 50%;
+  height: 150px;
+  background-color: blue;;
+
+}
+.second {
+  float: left;
+  width: 30%;
+  height: 150px;
+  background-color: green;
+
+}
+.fourth {
+  float: left;
+  width: 30%;
+  height: 100px;
+  background-color: yellow;
+
+}
+.last {
+  float: left;
+  width: 30%;
+  height: 150px;
+  background-color: deeppink;
+
+}
