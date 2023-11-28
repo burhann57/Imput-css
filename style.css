@@ -1,12 +1,12 @@
 .frist {
   float: left;
   width: 30%;
-  height:100px;
+  height:150px;
   background-color: red;
 }
 .third {
   float: left;
-  width: 50%;
+  width: 60%;
   height: 150px;
   background-color: blue;;
 
@@ -21,7 +21,7 @@
 .fourth {
   float: left;
   width: 30%;
-  height: 100px;
+  height: 150px;
   background-color: yellow;
 
 }
